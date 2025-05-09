@@ -1,0 +1,27 @@
+Patient ID: 456789
+Name: Sarah Thompson
+Age: 42
+Gender: Female
+Date of Report: 2024-10-12
+
+Chief Complaint:
+The patient presents with persistent fatigue, unintentional weight loss (~5 kg over 3 months), and intermittent low-grade fever. She also reports night sweats and occasional dry cough.
+
+Medical History:
+Family History: Father deceased (lung cancer at age 70), mother with type 2 diabetes.
+Personal Medical History:
+	•	Asthma: Diagnosed at age 30; uses albuterol inhaler as needed.
+	•	Depression: Treated with SSRIs since age 38; currently on fluoxetine.
+Lifestyle Factors: Non-smoker, vegetarian, moderate physical activity. Recently returned from a 2-month work trip to Southeast Asia.
+Medications: Fluoxetine (20 mg daily), Vitamin D supplement.
+
+Recent Lab and Diagnostic Results:
+	•	CBC: Mild anemia (Hb 10.8 g/dL), elevated ESR (45 mm/hr).
+	•	Chest X-ray: Bilateral hilar lymphadenopathy noted.
+	•	Tuberculin Skin Test (TST): Positive (17 mm induration).
+	•	Sputum Culture: Pending.
+
+Physical Examination Findings:
+	•	Vital Signs: BP 118/76 mmHg, HR 88 bpm, Temp 99.4°F, BMI 21.9
+	•	Lungs: Slightly reduced breath sounds bilaterally; no crackles or wheezes.
+	•	Lymph Nodes: Mild cervical lymphadenopathy palpable.
